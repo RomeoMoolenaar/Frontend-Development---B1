@@ -56,24 +56,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
-Mijn start niveau is op dit moment rood. 
+**Je startniveau:**
+> Mijn start niveau is op dit moment rood. 
 
 **Je focus:** 
-Ik ga mij focussen op een responsive website maken.
+> Ik ga mij focussen op een responsive website maken.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-URL: https://www.oneplus.com/nl
+**Je opdracht:** 
+[URL naar website:](https://www.oneplus.com/nl)
 
 **Screenshot(s):**
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-![Test](images/Proces/Homepage_website.PNG)
-2. (images/Proces/Homepage_website2.PNG)
-3. (images/Proces/Homepage_website3.PNG)
-4. (images/Proces/Homepage_website4.PNG)
-5. (images/Proces/Homepage_website5.PNG)
+![Screenshot1](images/Proces/Homepage_website.PNG)
+![Screenshot2](images/Proces/Homepage_website2.PNG)
+![Screenshot3](images/Proces/Homepage_website3.PNG)
+![Screenshot4](images/Proces/Homepage_website4.PNG)
+![Screenshot5](images/Proces/Homepage_website5.PNG)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+
