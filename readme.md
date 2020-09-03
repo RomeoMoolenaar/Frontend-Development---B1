@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Romeo Moolenaar 500817013
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -57,10 +57,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
-Mijn start nieuwe is rood. 
+Mijn start niveau is op dit moment rood. 
 
-**Je focus:** -kies uit responsive óf surface plane-
-Ik ga mij focussen op een responsive website.
+**Je focus:** 
+Ik ga mij focussen op een responsive website maken.
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 URL: https://www.oneplus.com/nl
@@ -68,7 +68,7 @@ URL: https://www.oneplus.com/nl
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-1. (images/Proces/Homepage_website.PNG)
+![Test](images/Proces/Homepage_website.PNG)
 2. (images/Proces/Homepage_website2.PNG)
 3. (images/Proces/Homepage_website3.PNG)
 4. (images/Proces/Homepage_website4.PNG)
