@@ -66,16 +66,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 [URL naar website:](https://www.oneplus.com/nl)
 
 **Screenshot(s):**
-![Screenshot1](images/Proces/Homepage_website.PNG)
-![Screenshot2](images/Proces/Homepage_website2.PNG)
-![Screenshot3](images/Proces/Homepage_website3.PNG)
-![Screenshot4](images/Proces/Homepage_website4.PNG)
-![Screenshot5](images/Proces/Homepage_website5.PNG)
-![Screenshot6](images/Proces/Webshop_website.PNG)
-![Screenshot7](images/Proces/Webshop_website2.PNG)
-![Screenshot8](images/Proces/Webshop_website3.PNG)
-![Screenshot9](images/Proces/Webshop_website4.PNG)
+![Screenshot1](images/proces/homepage_website.PNG)
+![Screenshot2](images/proces/homepage_website2.PNG)
+![Screenshot3](images/proces/homepage_website3.PNG)
+![Screenshot4](images/proces/homepage_website4.PNG)
+![Screenshot5](images/proces/homepage_website5.PNG)
+![Screenshot6](images/proces/webshop_website.PNG)
+![Screenshot7](images/proces/webshop_website2.PNG)
+![Screenshot8](images/proces/webshop_website3.PNG)
+![Screenshot9](images/proces/webshop_website4.PNG)
 
 **Breakdown-schets(en):**
-
+![Gehele website](assets/breakdown/helepagina.png)
 
