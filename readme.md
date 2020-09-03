@@ -71,6 +71,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![Screenshot3](images/Proces/Homepage_website3.PNG)
 ![Screenshot4](images/Proces/Homepage_website4.PNG)
 ![Screenshot5](images/Proces/Homepage_website5.PNG)
+![Screenshot6](images/Proces/Webshop_website.PNG)
+![Screenshot7](images/Proces/Webshop_website2.PNG)
+![Screenshot8](images/Proces/Webshop_website3.PNG)
+![Screenshot9](images/Proces/Webshop_website4.PNG)
 
 **Breakdown-schets(en):**
 
