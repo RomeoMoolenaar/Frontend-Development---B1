@@ -80,4 +80,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![Gehele website](assets/breakdown/helepagina.png)
 ![Webshop pagina](assets/breakdown/webshoppagina.png)
 ![Gehele website hoofdstructuur](assets/breakdown/helepagina_hoofdstructuur.png)
-![Webshop website hoofdstructuur](assets/breakdown/webshop_hoofdstructuur.png)
+![Webshop website hoofdstructuur](assets/breakdown/webshoppagina_hoofdstructuur.png)
