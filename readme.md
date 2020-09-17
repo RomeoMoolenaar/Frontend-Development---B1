@@ -53,6 +53,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ![Voortgangweek3](assets/week3voortgang/pagina1.PNG)
 ![Voortgangweek3](assets/week3voortgang/pagina1b.PNG)
+![Voortgangweek3](assets/week3voortgang/pagina2a.PNG)
 
 ### Agenda voor meeting
 
