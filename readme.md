@@ -48,6 +48,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+>Carmen en ik gaan op:
+
+1. De dag na de les 19 septemeber 2020 begin maken met CSS.
+2. Vragen opstellen voor de studentenassistenten. 
+3. Kijken of we al iets met Javascript kunnen doen?
+4. Huiswerk van andere medestudenten bekijken voor eventuele aanvulling van eigen proces.
+
 
 ### Verslag van meeting
 
