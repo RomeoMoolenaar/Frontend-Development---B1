@@ -39,10 +39,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+
 > Goed
 1. Het opstellen van HTML was best veel.
-2. Klopt de semantische waarde.
+2. Goed gekeken naar alle semantische waarde.
 3. Geen gebruik gemaakt van onnodige divjes en spans!
 
 > Lastig
@@ -51,11 +51,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![Voortgangweek1](assets/week3voortgang/pagina1.PNG)
+![Voortgangweek3](assets/week3voortgang/pagina1.PNG)
+![Voortgangweek3](assets/week3voortgang/pagina1b.PNG)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+
 >Carmen en ik gaan op:
 
 1. De dag na de les 19 septemeber 2020 begin maken met CSS.
