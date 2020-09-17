@@ -40,10 +40,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+> Goed
+1. Het opstellen van HTML was best veel.
+2. Klopt de semantische waarde.
+3. Geen gebruik gemaakt van onnodige divjes en spans!
+
+> Lastig
+1. Weinig tijd gehad om aan CSS te werken.
+2. Te weinig commentaar neergezet, waardoor ik niet meer wist wat ik had gedaan en wat het betekende.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![Voortgangweek1](assets/week3voortgang/pagina1.PNG)
 
 ### Agenda voor meeting
 
